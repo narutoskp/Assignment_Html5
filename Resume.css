@@ -6,7 +6,6 @@ img {
     width: 300px;
     height: 300px;
     margin-right: auto;
-    float:left;
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
@@ -24,11 +23,11 @@ img {
     width:350px;
     color:white;
     float:right;
-    padding:10px;
-    margin-top: 50px;
-    margin-bottom: 80px;
-    margin-right: 300px;
-    margin-left: 80px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    margin:auto;
     background-color: #FFC125;
 }
 
